@@ -100,6 +100,9 @@ html, #contain{
     background-size: contain;
     width: 100%;
 }
+.image img:nth-child(1){
+    width: 80%;
+}
 .image img:nth-child(2){
     position: absolute;
     bottom: 0;
